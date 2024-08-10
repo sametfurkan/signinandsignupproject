@@ -2,6 +2,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100%;
-    background-image: url("https://arzueceaydemir.com/assets/ai-profile-pic-removebg-preview%20(1).png");
+    background-image: url("https://getwallpapers.com/wallpaper/full/a/5/9/129555.jpg");
+    font-family: "Poppins", sans-serif;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
 }
