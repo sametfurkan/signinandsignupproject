@@ -1,0 +1,7 @@
+.app{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-image: url("https://arzueceaydemir.com/assets/ai-profile-pic-removebg-preview%20(1).png");
+}
